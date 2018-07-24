@@ -1,0 +1,14 @@
+C:\Users\Romina\source\repos\Entidades\TestEndidades\bin\Debug\TestEndidades.exe.config
+C:\Users\Romina\source\repos\Entidades\TestEndidades\bin\Debug\TestEndidades.exe
+C:\Users\Romina\source\repos\Entidades\TestEndidades\bin\Debug\TestEndidades.pdb
+C:\Users\Romina\source\repos\Entidades\TestEndidades\bin\Debug\TestEndidades.xml
+C:\Users\Romina\source\repos\Entidades\TestEndidades\bin\Debug\Entidades.dll
+C:\Users\Romina\source\repos\Entidades\TestEndidades\bin\Debug\Entidades.pdb
+C:\Users\Romina\source\repos\Entidades\TestEndidades\obj\Debug\TestEndidades.vbprojAssemblyReference.cache
+C:\Users\Romina\source\repos\Entidades\TestEndidades\obj\Debug\TestEndidades.Resources.resources
+C:\Users\Romina\source\repos\Entidades\TestEndidades\obj\Debug\TestEndidades.vbproj.GenerateResource.cache
+C:\Users\Romina\source\repos\Entidades\TestEndidades\obj\Debug\TestEndidades.vbproj.CoreCompileInputs.cache
+C:\Users\Romina\source\repos\Entidades\TestEndidades\obj\Debug\TestEndidades.vbproj.CopyComplete
+C:\Users\Romina\source\repos\Entidades\TestEndidades\obj\Debug\TestEndidades.exe
+C:\Users\Romina\source\repos\Entidades\TestEndidades\obj\Debug\TestEndidades.xml
+C:\Users\Romina\source\repos\Entidades\TestEndidades\obj\Debug\TestEndidades.pdb

@@ -1,0 +1,8 @@
+C:\Users\Romina\source\repos\Entidades\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\Romina\source\repos\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.vbprojAssemblyReference.cache
+C:\Users\Romina\source\repos\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\Romina\source\repos\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.vb
+C:\Users\Romina\source\repos\Entidades\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\Romina\source\repos\Entidades\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\Romina\source\repos\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\Romina\source\repos\Entidades\Entidades\obj\Debug\netstandard1.4\Entidades.pdb
